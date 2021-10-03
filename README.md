@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Snyder4000
+- 👋 Hi, I’m Mark Snyder
 - 👀 I’m interested in most things Computer Science, Video Game Development, and Software Engineering/Development.
 - 🌱 I’m currently learning what I need to know to become a Full-Stack type of Developer.
 - 💞️ I’m looking to collaborate on nothing right now, but that doesn't mean I can't or won't change my mind on collaberation in the future.
